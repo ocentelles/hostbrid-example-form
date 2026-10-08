@@ -1,0 +1,1 @@
+{"name":"hostbrid-example-form","version":"1.0.0","private":true,"type":"module","license":"MIT","engines":{"node":"22.23.3"},"scripts":{"start":"node server.mjs","check":"node --check server.mjs && node --check pipeline.mjs && node --check mock-adapters.mjs && node --check public/form.js","test":"node --test scripts/*.test.mjs"}}
